@@ -6,3 +6,7 @@ url: "https://zackg.me" # the base hostname & protocol for your site, e.g. http:
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - "index.markdown"
+  - "papers.markdown"
+  - "personal.markdown"
