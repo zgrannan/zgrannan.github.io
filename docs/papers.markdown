@@ -6,7 +6,7 @@ title: "Papers"
 # Drafts and Pre-Prints
 
 1. Zachary Grannan and Alexander J. Summers. *Resource Specifications for
-   Resource-Manipulating Programs*. 2023. <a
+   Resource-Manipulating Programs*. 2024. <a
    href="https://arxiv.org/abs/2304.12530" target="_blank" rel="noopener
    noreferrer">[arXiv link]</a>
 
